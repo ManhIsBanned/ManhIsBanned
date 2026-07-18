@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7474F&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+%F0%9F%91%8B;I+turn+coffee+into+code+%E2%98%95;I+am+passionate+about+building+cool+stuff+%F0%9F%9A%80;Bug+creator+and+bug+fixer+%F0%9F%90%9B" alt="Typing SVG" /></a>
 
 <!-- Lượt xem Profile -->
-<img src="https://komarev.com/ghpvc/?username=TEN_GITHUB_CUA_BAN&label=Profile%20Views&color=0E75B6&style=for-the-badge&labelColor=141414" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ManhIsBanned&label=Profile%20Views&color=0E75B6&style=for-the-badge&labelColor=141414" alt="Profile Views" />
 
 </div>
 
@@ -55,12 +55,12 @@ hobbies: ["Gaming 🎮", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=TEN_GITHUB_CUA_BAN&theme=radical&hide_border=true&background=00000000"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ManhIsBanned&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManhIsBanned&theme=radical&hide_border=true&background=00000000"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_GITHUB_CUA_BAN&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhIsBanned&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TEN_GITHUB_CUA_BAN&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ManhIsBanned&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -70,7 +70,7 @@ hobbies: ["Gaming 🎮", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/TEN_GITHUB_CUA_BAN/TEN_GITHUB_CUA_BAN/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ManhIsBanned/ManhIsBanned/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
