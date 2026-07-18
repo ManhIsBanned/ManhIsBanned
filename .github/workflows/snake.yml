@@ -5,12 +5,16 @@ on:
     - cron: "0 0 * * *" # Tự động chạy mỗi ngày 1 lần
   workflow_dispatch: # Cho phép bạn tự bấm chạy thủ công
 
+# CẤP QUYỀN GHI (WRITE) ĐỂ ACTION CÓ THỂ PUSH LÊN REPO
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.1.1 # Đã update lên v4
+        uses: actions/checkout@v4.1.1
       
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -21,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-light
             
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4.1.0 # Đã update lên v4
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
           build_dir: dist
