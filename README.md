@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Hiệu ứng Header động -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00CED1,100:FF1493&height=220&section=header&text=Đức%20Mạnh&fontSize=75&fontAlignY=35&desc=Software%20Engineer%20%7C%20Tech%20Innovator&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00CED1,100:FF1493&height=220&section=header&text=DucManh&fontSize=75&fontAlignY=35&desc=Software%20Engineer%20%7C%20Tech%20Innovator&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
 
 <!-- Hiệu ứng gõ chữ (Typing SVG) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7474F&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+%F0%9F%91%8B;I+turn+coffee+into+code+%E2%98%95;I+am+passionate+about+building+cool+stuff+%F0%9F%9A%80;Bug+creator+and+bug+fixer+%F0%9F%90%9B" alt="Typing SVG" /></a>
