@@ -16,7 +16,7 @@
 ### 🧑‍💻 Về mình
 
 ```yaml
-name: Tên Của Bạn
+name: DucManh
 role: Fullstack Developer
 location: Earth 🌍
 current_focus: "Microservices & Cloud Architecture"
