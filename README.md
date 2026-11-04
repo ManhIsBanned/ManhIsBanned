@@ -11,8 +11,7 @@ ducmanh@vn:~$ whoami
 ducmanh
 
 ducmanh@vn:~$ cat about.txt
-writes minecraft mods and the systems that protect them.
-likes reading binaries more than documentation.
+luv my gf
 
 ducmanh@vn:~$ ls skills/
 java/   python/   c/   rust/
